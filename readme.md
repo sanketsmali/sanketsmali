@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://testingpyramid.com/)
+
 <h1 align="center">Hi 👋, I'm Sanket Mali</h1>
 <h3 align="center">A passionate software development engineer in Test</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
